@@ -1,6 +1,6 @@
 # Simple counter app
 
-# DEMO: 
+### DEMO 👇
 https://pedrohen1.github.io/Counter/
 
 Enjoy!
